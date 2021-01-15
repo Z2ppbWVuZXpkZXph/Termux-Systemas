@@ -1,0 +1,2 @@
+# Termux-Systemas
+NEV - CEBLRPGB
